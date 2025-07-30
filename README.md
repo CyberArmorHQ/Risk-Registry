@@ -1,4 +1,4 @@
-# Risk Register – GRC Project
+# Risk Register 
 
 This project presents a sample risk register tailored for a banking environment. It evaluates potential operational and cybersecurity risks based on likelihood, severity, and priority using a risk matrix model.
 
